@@ -69,5 +69,3 @@ secrets.yaml
 # ── Local Data ────────────────────
 chroma_data/
 uploads/
-*.png
-*.jpg
