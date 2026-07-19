@@ -405,9 +405,9 @@ await update_agent.process_cdc_event(event={
 
 ### 功能5：飞书入库与问答
 
-![alt text](image.png)
-
 ![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 
 ---
